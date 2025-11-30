@@ -37,7 +37,6 @@ interface MenuItem {
   path: string;
   submenu: SubmenuItem[];
 }
-  // 메뉴 데이터
   const menus: MenuItem[] = [
     {
       label: 'WHO WE ARE',
