@@ -151,7 +151,7 @@ export default function Header() {
           
           {/* 왼쪽 이미지 */}
           <div className="relative">
-            <img src="src/assets/images/img-01.jpg"  className=" rounded-2xl flex items-center justify-center" alt="" />
+            <img src="/images/img-01.jpg"  className=" rounded-2xl flex items-center justify-center" alt="" />
           </div>
 
           {/* 오른쪽 텍스트 */}

@@ -138,7 +138,7 @@ return (
                 {/* Image */}
                 <div className="mb-6">
                   <img 
-                    src="src/assets/images/sungwook.jpg" 
+                    src="/images/sungwook.jpg" 
                     alt="Sungwook Hong"
                     className="w-full aspect-[4/3] object-cover rounded-lg"
                   />
@@ -161,7 +161,7 @@ return (
                 {/* Image */}
                 <div className="mb-6">
                   <img 
-                    src="src/assets/images/jiho.jpg" 
+                    src="/images/jiho.jpg" 
                     alt="Jiho Kim"
                     className="w-full aspect-[4/3] object-cover rounded-lg"
                   />
@@ -184,7 +184,7 @@ return (
                 {/* Image */}
                 <div className="mb-6">
                   <img 
-                    src="src/assets/images/yoonsung.jpg" 
+                    src="/images/yoonsung.jpg" 
                     alt="Yoonsung"
                     className="w-full aspect-[4/3] object-cover rounded-lg"
                   />
@@ -215,7 +215,7 @@ return (
               </p>
             </div>
             <div  className=" flex items-center justify-center">
-              <img src="src/assets/images/logo.jpg" alt="" />
+              <img src="/images/logo.jpg" alt="" />
             </div>
 
             <div className="flex-1">
